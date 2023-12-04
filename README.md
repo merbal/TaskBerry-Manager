@@ -1,3 +1,4 @@
+Ez a projekt egy általam futtatott raspberry píon fut. a fájlstruktúrák még nem látszanak a githubon, ezt később még pótlom.
 Projekt célja:
 A projekt célja egy hatékony és könnyen kezelhető todo alkalmazás létrehozása, amely lehetővé teszi a felhasználók számára teendőik és feladataik kategorizálását, lekövetését és rendszerezését. Az alkalmazásnak egy olyan webes felülettel kell rendelkeznie, amelyet egy Raspberry Pi-n futó Apache szerveren, PHP alapú weblap szolgáltatással érhetnek el a felhasználók.
 
